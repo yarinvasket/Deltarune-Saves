@@ -2,4 +2,4 @@
 Like [Undertale Saves](https://github.com/yarinvasket/UndertaleSaves), but for Deltarune
 
 ## Routes
-Currently, there are only the pacifist and aggressive route as only the demo is out, but if Deltarune will have multiple routes I will add them.
+There are currently 3 routes: pacifist route, [weird route](https://deltarune.fandom.com/wiki/Weird_Route) (also known as the snowgrave route) and the aggressive route, which is an aborted weird route.
